@@ -96,7 +96,7 @@ var Greeter = React.createClass({
                    <button>Set Name</button>
                </form>*/}
 
-               <GreeterForm onNewDate={this.handleNewData}/>
+               <GreeterForm onNewData={this.handleNewData}/>
            </div>
        );
     }

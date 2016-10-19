@@ -180,7 +180,7 @@
 	                message
 	            ),
 	            React.createElement(GreeterMessage, { name: name, message: message }),
-	            React.createElement(GreeterForm, { onNewDate: this.handleNewData })
+	            React.createElement(GreeterForm, { onNewData: this.handleNewData })
 	        );
 	    }
 	});
