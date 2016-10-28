@@ -1,4 +1,3 @@
-hello-react/node_modules/
-hello-react-bundle/node_modules/
+*/node_modules/
 
 .idea/
