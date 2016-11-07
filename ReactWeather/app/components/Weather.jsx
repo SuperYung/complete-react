@@ -30,7 +30,6 @@ var Weather = React.createClass({
             });
             alert(errorMessage);
         });
-
     },
     render: function () {
         var {isLoading, temp, city} = this.state;
